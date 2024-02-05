@@ -11,3 +11,5 @@
     <a href="https://www.example.com">This is a link to my example page.</a>
 </body>
 </html>
+
+exports.build - series(scssTask, jsTask);
